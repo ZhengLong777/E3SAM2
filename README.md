@@ -2,6 +2,8 @@
 
 [E³SAM2: Entropy-Aware and Edge-Guided Adaptation of SAM2 for Echocardiography Video Segmentation](https://doi.org/10.1609/aaai.v40i16.38346), AAAI 2026.
 
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38346)
+
 Long Zheng, Zhi Li, Weidong Wang, Zhenyu Dai, and Shuyun Li
 
 E³SAM2 is a SAM 2-based framework for echocardiography video segmentation. This repository supports semi-supervised and fully supervised CAMUS experiments, as well as EchoNet-Dynamic video segmentation.
