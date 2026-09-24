@@ -1,0 +1,13 @@
+numpy>=1.24
+Pillow>=9.5
+imageio>=2.31
+matplotlib>=3.7
+opencv-python>=4.8
+pandas>=2.0
+scikit-image>=0.21
+scipy>=1.10
+SimpleITK>=2.3
+torch>=2.1
+torchvision>=0.16
+einops>=0.7
+MedPy>=0.5
